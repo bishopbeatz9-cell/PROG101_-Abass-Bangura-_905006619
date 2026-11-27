@@ -141,12 +141,10 @@ START
         // Wait before next sensor reading cycle
         CALL Module_Sleep(60)
 
-    END WHILE
-
- <img width="468" height="626" alt="image" src="https://github.com/user-attachments/assets/1329a081-fbdb-4717-8f04-08014f43392e" />
+    
 
 
-
+<img width="1219" height="1350" alt="FLOWCHART_ABASS_BANGURA" src="https://github.com/user-attachments/assets/538f52dc-eff9-41a9-93e8-abaf99d4f2eb" />
 
 
 
